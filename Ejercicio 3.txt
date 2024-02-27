@@ -1,0 +1,42 @@
+<html> 
+<head>
+<title>CURRICULUM VITAE</title>
+</head>
+<body bgcolor="skyblue">
+<div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: white;">
+<img src ="mifoto.jpeg" width="200" height="300">
+<hr>
+<font size="6" color="black" style="font-family: arial;">
+<b>
+<p align="center">Wilian Calixto Ramírez Vásquez</p>
+</b> 
+</font>
+<hr>
+<font size="4" color="black" style="font-family: arial;">
+<b><p align-"left">DATOS</p>
+</b>
+<p align="left">• Edad: 17 años</p>
+<p align="left">• Fecha de nacimiento: 11 de agosto de 2006</p>
+<p align="left">• Teléfono: 8510-4626</p>
+<p align="left">• Dirección: 5 Calle 3-10 Zona 4 Villa Nueva</p> 
+</font>
+<hr>
+<b><p align="left">NIVEL ACADEMICO</p>
+</b>
+<p_align="left">• Diversificado: Bachillerato en Computación, Instituto Profesional de Computación (I.P.C)
+</p> <p align="left">• Nivel Básico: Instituto Nacional de Educación Básica 9 de Julio </p>
+<hr>
+<b> <p align="left">EXPERIENCIA LABORAL </p>
+</b>
+<p align="left">• Ninguna</p>
+<b> 
+<p align="left">HABILIDADES</p>
+</b>
+<p align="left">Mantenimiento y reparacion electronicos </p>
+</body>
+</html>
+<b><p align="left">VALORES</p></b>
+<p align="left">• Responsabilidad</p>
+<p align="left">• Compromiso</p>
+<p align="left"> • Puntualidad</p> 
+</div>
